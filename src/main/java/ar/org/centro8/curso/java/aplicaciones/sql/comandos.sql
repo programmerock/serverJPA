@@ -1,2 +1,2 @@
 use negocioWeb;
-select * from clientes;
+select * from detalles;

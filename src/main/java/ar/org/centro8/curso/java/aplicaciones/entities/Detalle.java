@@ -69,7 +69,9 @@ public class Detalle implements Serializable {
         this.cantidad = cantidad;
         this.articulo = articulo;
         this.factura = factura;
-    }    
+    }
+
+    
 
     public DetallePK getDetallePK() {
         return detallePK;
